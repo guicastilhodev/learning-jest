@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1729540349130" clover="3.2.0">
+  <project timestamp="1729540349130" name="All files">
+    <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1" elements="10" coveredelements="10" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
+    <file name="fatorial.js" path="C:\Users\guilherme.santos\Documents\jest\exercicio\fatorial.js">
+      <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="2" count="12" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="4" count="8" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
